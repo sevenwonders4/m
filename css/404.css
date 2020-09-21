@@ -1,4 +1,4 @@
-html {
+﻿html {
   height: 100%;
   display: flex;
   align-items: center;
@@ -27,7 +27,7 @@ a {
 }
 
 a:before {
-  content: "🡠 ";
+  content: "  ";
   -webkit-transition: color ease;
   -moz-transition: color ease;
   -ms-transition: color ease;
