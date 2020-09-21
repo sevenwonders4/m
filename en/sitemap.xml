@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/en/categories/</loc>
+    <loc>https://sevenwonders4.github.io/world/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://github.com/sevenwonders4/world/categories/"
+                href="https://sevenwonders4.github.io/world/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/sevenwonders4/world/en/categories/"
+                href="https://sevenwonders4.github.io/world/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/en/tags/</loc>
+    <loc>https://sevenwonders4.github.io/world/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://github.com/sevenwonders4/world/tags/"
+                href="https://sevenwonders4.github.io/world/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/sevenwonders4/world/en/tags/"
+                href="https://sevenwonders4.github.io/world/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/en/</loc>
+    <loc>https://sevenwonders4.github.io/world/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://github.com/sevenwonders4/world/"
+                href="https://sevenwonders4.github.io/world/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/sevenwonders4/world/en/"
+                href="https://sevenwonders4.github.io/world/en/"
                 />
   </url>
   

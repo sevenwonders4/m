@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>World</title>
-    <link>https://github.com/sevenwonders4/world/en/</link>
+    <link>https://sevenwonders4.github.io/world/en/</link>
     <description>Recent content on World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://github.com/sevenwonders4/world/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenwonders4.github.io/world/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

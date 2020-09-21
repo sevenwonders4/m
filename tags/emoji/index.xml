@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on 世界ふしぎクエスチョン</title>
-    <link>https://github.com/sevenwonders4/world/tags/emoji/</link>
+    <link>https://sevenwonders4.github.io/world/tags/emoji/</link>
     <description>Recent content in emoji on 世界ふしぎクエスチョン</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://github.com/sevenwonders4/world/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenwonders4.github.io/world/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emoji Support</title>
-      <link>https://github.com/sevenwonders4/world/blog/emoji-support.fr/</link>
+      <link>https://sevenwonders4.github.io/world/blog/emoji-support.fr/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/sevenwonders4/world/blog/emoji-support.fr/</guid>
+      <guid>https://sevenwonders4.github.io/world/blog/emoji-support.fr/</guid>
       <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
  La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
 Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
@@ -25,10 +25,10 @@ Pour activer globalement emoji, définissez enableEmoji sur true dans la [config
     
     <item>
       <title>Emoji Support</title>
-      <link>https://github.com/sevenwonders4/world/blog/emoji-support/</link>
+      <link>https://sevenwonders4.github.io/world/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/sevenwonders4/world/blog/emoji-support/</guid>
+      <guid>https://sevenwonders4.github.io/world/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

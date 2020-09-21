@@ -3,167 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/categories/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://github.com/sevenwonders4/world/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="https://github.com/sevenwonders4/world/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://github.com/sevenwonders4/world/tags/</loc>
+    <loc>https://sevenwonders4.github.io/world/categories/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/sevenwonders4/world/en/tags/"
+                href="https://sevenwonders4.github.io/world/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://github.com/sevenwonders4/world/tags/"
+                href="https://sevenwonders4.github.io/world/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/my-first-post/</loc>
-    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://github.com/sevenwonders4/world/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://github.com/sevenwonders4/world/en/"
+                href="https://sevenwonders4.github.io/world/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="https://github.com/sevenwonders4/world/"
+                href="https://sevenwonders4.github.io/world/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/my-first-post/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/%E9%8C%AF%E8%A6%96/</loc>
+    <loc>https://sevenwonders4.github.io/world/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sevenwonders4.github.io/world/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://sevenwonders4.github.io/world/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sevenwonders4.github.io/world/tags/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/categories/%E9%8C%AF%E8%A6%9A/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/%E9%8C%AF%E8%A6%96/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/css/</loc>
+    <loc>https://sevenwonders4.github.io/world/categories/%E9%8C%AF%E8%A6%9A/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sevenwonders4.github.io/world/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/markdown-syntax.fr/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/markdown-syntax.fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/html/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/markdown/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/markdown-syntax/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/categories/syntax/</loc>
+    <loc>https://sevenwonders4.github.io/world/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/themes/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/categories/themes/</loc>
+    <loc>https://sevenwonders4.github.io/world/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/rich-content.fr/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/rich-content.fr/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/privacy/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/rich-content/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/shortcodes/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/placeholder-text/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/text/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/tags/emoji/</loc>
+    <loc>https://sevenwonders4.github.io/world/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/emoji-support.fr/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/emoji-support.fr/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/blog/emoji-support/</loc>
+    <loc>https://sevenwonders4.github.io/world/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/about/</loc>
+    <loc>https://sevenwonders4.github.io/world/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/sevenwonders4/world/contact/</loc>
+    <loc>https://sevenwonders4.github.io/world/contact/</loc>
   </url>
   
 </urlset>
