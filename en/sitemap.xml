@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://github.com/sevenwonders4/world/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://github.com/sevenwonders4/world/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/sevenwonders4/world/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/sevenwonders4/world/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://github.com/sevenwonders4/world/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/sevenwonders4/world/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/sevenwonders4/world/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="https://github.com/sevenwonders4/world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/sevenwonders4/world/en/"
+                />
+  </url>
+  
+</urlset>

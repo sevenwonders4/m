@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 世界ふしぎクエスチョン</title>
+    <link>https://github.com/sevenwonders4/world/categories/</link>
+    <description>Recent content in Categories on 世界ふしぎクエスチョン</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://github.com/sevenwonders4/world/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>錯覚</title>
+      <link>https://github.com/sevenwonders4/world/categories/%E9%8C%AF%E8%A6%9A/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/sevenwonders4/world/categories/%E9%8C%AF%E8%A6%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://github.com/sevenwonders4/world/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/sevenwonders4/world/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://github.com/sevenwonders4/world/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/sevenwonders4/world/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
