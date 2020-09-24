@@ -1,9 +1,11 @@
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-transform: none;
 }
 
-a.article-category-link {
+
+a.article-terms-link {
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-transform: none;
   letter-spacing: 0;
@@ -16,25 +18,36 @@ a.article-category-link {
   -webkit-transition: .2s;
   transition: .2s;
 }
-a.article-category-link:hover {
+
+
+a.article-terms-link:hover {
   background-color: #3498db;
   border: 1px solid #3498db;
   color: #fff !important;
 }
-#content h2,
-#content h3,
-#content h4,
-#content h5,
-#content h6 {
+
+
+.content h2,
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
   padding: 0.4em;
   color: #494949;
   background: #f8fbff;
   border-left: solid 5px #00319c;
   letter-spacing: 0;
 }
+
+
 .pagination {
     p pass{
       margin: -1em 0 0 0;
     }
 }
+
+
+
+
+
 
