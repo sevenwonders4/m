@@ -50,8 +50,15 @@ a.article-terms-link:hover {
     line-height: 1.65;
     text-transform: uppercase;
     list-style: none;}
-#categori li {
-    padding-top: 0.2em;
+
+#categori a {
+    display: block;
+    padding: 0.2em;
+}
+
+#categories a {
+    display: block;
+    padding: 0.2em;
 }
 
 .stats li {
