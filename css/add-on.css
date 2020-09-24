@@ -80,3 +80,9 @@ a.article-terms-link:hover {
 #site-intro main p {
     font-size: .8em;
 }
+.nav-title a {
+    font-size: .6em;
+}
+.nav {
+    font-size: .8em;
+}
