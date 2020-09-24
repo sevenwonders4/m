@@ -1,10 +1,10 @@
-﻿/* フォント変更、英文字をすべて大文字なし */
+﻿/* フォント変更英文字をすべて大文字なし */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-transform: none;
 }
 
-/* カテゴリタグ デザイン変更 */
+/* カテゴリタグデザイン変更 */
 a.article-category-link {
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-transform: none;
@@ -19,7 +19,7 @@ a.article-category-link {
   transition: .2s;
 }
 
-/* カテゴリタグ デザイン変更（ホバー） */
+/* カテゴリタグデザイン変更（ホバー） */
 a.article-category-link:hover {
   background-color: #3498db;
   border: 1px solid #3498db;
@@ -39,15 +39,8 @@ a.article-category-link:hover {
   letter-spacing: 0;
 }
 
-
 .pagination {
     p pass{
       margin: -1em 0 0 0;
     }
 }
-
-
-
-
-
-
