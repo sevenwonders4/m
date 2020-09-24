@@ -64,3 +64,19 @@ a.article-terms-link:hover {
 .stats li {
     padding-top: 0.2em;
 }
+
+.copyright {
+    font-size: .7em;
+}
+.mini-post header h2 {
+    font-size: .8em;
+}
+.mini-post header time {
+    font-size: .7em;
+}
+.meta {
+    font-size: .7em;
+}
+#site-intro main p {
+    font-size: .8em;
+}
