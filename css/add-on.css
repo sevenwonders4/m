@@ -4,7 +4,6 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: none;
 }
 
-
 a.article-terms-link {
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-transform: none;
@@ -19,13 +18,11 @@ a.article-terms-link {
   transition: .2s;
 }
 
-
 a.article-terms-link:hover {
   background-color: #3498db;
   border: 1px solid #3498db;
   color: #fff !important;
 }
-
 
 .content h2,
 .content h3,
@@ -39,7 +36,6 @@ a.article-terms-link:hover {
   letter-spacing: 0;
 }
 
-
 .pagination {
     p pass{
       margin: -1em 0 0 0;
@@ -47,11 +43,12 @@ a.article-terms-link:hover {
 }
 
 
-
-ul li {
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
+#site-main ul {
+    font-family: raleway,Helvetica,sans-serif;
+    font-size: .9em;
+    letter-spacing: .25em;
+    line-height: 1.65;
+    text-transform: uppercase;
+    list-style: none;
 }
-
-
 
