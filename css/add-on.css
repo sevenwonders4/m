@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {
 a.article-terms-link {
   font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
   text-transform: none;
-  font-size: 1.2em;
+  font-size: 1.5em;
   letter-spacing: 0;
   padding: 0.3em 0.4em;
   background-color: #fff;
@@ -62,7 +62,7 @@ a.article-terms-link:hover {
 }
 
 .stats li {
-    padding-top: 0.2em;
+    padding-top: 0.4em;
 }
 
 .copyright {
@@ -86,3 +86,15 @@ a.article-terms-link:hover {
 .nav {
     font-size: .8em;
 }
+.button {
+    font-size: .7em;
+}
+.fa, .fas, .far, .fal, .fad, .fab {
+    font-size: 1.2em;
+}
+#socnet-share a {
+    font-size: 1.3em;
+}
+#share-menu.flyout-menu .share-btn {
+    font-size: 1.5em;
+
