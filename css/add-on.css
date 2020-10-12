@@ -9,7 +9,7 @@ a.article-terms-link {
   text-transform: none;
   font-size: 1.5em;
   letter-spacing: 0;
-  padding: 0.3em 0.4em;
+  padding: 0.2em 0.4em;
   background-color: #fff;
   border: 1px solid #aaa;
   border-radius: 3px;
@@ -97,4 +97,5 @@ a.article-terms-link:hover {
 }
 #share-menu.flyout-menu .share-btn {
     font-size: 1.5em;
+}
 
