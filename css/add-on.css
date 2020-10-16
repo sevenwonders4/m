@@ -51,13 +51,29 @@ a.article-terms-link:hover {
     line-height: 1.65;
     text-transform: uppercase;
     list-style: none;
-	padding-right: 30px;
+	padding-right: 10px;
 	}
 
 #categories a {
     display: block;
     padding: 0.3em;
 }
+
+#categorie ul {
+    font-family: raleway,Helvetica,sans-serif;
+    font-size: 1.0em;
+    letter-spacing: .25em;
+    line-height: 1.65;
+    text-transform: uppercase;
+    list-style: none;
+	padding-right: 30px;
+	}
+
+#categorie a {
+    display: block;
+    padding: 0.3em;
+}
+
 
 
 .stats li {
