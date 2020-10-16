@@ -10,6 +10,7 @@ a.article-terms-link {
   font-size: 1.5em;
   letter-spacing: 0;
   padding: 0.2em 0.4em;
+  margin:-2.5em 0 0 0;
   background-color: #fff;
   border: 1px solid #aaa;
   border-radius: 3px;
@@ -43,23 +44,21 @@ a.article-terms-link:hover {
     }
 }
 
-#categori ul {
+#categories ul {
     font-family: raleway,Helvetica,sans-serif;
     font-size: 1.0em;
     letter-spacing: .25em;
     line-height: 1.65;
     text-transform: uppercase;
-    list-style: none;}
-
-#categori a {
-    display: block;
-    padding: 0.2em;
-}
+    list-style: none;
+	padding-right: 30px;
+	}
 
 #categories a {
     display: block;
     padding: 0.3em;
 }
+
 
 .stats li {
     padding-top: 0.4em;
