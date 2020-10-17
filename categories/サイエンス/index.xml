@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サイエンス on ワンダーカタログ</title>
+    <link>https://sevenwonders4.github.io/world/categories/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/</link>
+    <description>Recent content in サイエンス on ワンダーカタログ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sevenwonders4.github.io/world/categories/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>こちらを見続けるドラゴンの不思議【目の錯覚】</title>
+      <link>https://sevenwonders4.github.io/world/blog/dragon-illusion/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sevenwonders4.github.io/world/blog/dragon-illusion/</guid>
+      <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
