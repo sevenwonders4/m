@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ドラマ on 三度の飯より漫画好き</title>
+    <link>https://sevenwonders4.github.io/world/tags/%E3%83%89%E3%83%A9%E3%83%9E/</link>
+    <description>Recent content in ドラマ on 三度の飯より漫画好き</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sevenwonders4.github.io/world/tags/%E3%83%89%E3%83%A9%E3%83%9E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>記事のテスト</title>
+      <link>https://sevenwonders4.github.io/world/blog/test/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sevenwonders4.github.io/world/blog/test/</guid>
+      <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
