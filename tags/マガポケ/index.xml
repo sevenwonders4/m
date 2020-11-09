@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>マガポケ on 三度の飯より漫画好き</title>
-    <link>https://sevenwonders4.github.io/world/tags/%E3%83%9E%E3%82%AC%E3%83%9D%E3%82%B1/</link>
+    <link>https://sevenwonders4.github.io/m/tags/%E3%83%9E%E3%82%AC%E3%83%9D%E3%82%B1/</link>
     <description>Recent content in マガポケ on 三度の飯より漫画好き</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sevenwonders4.github.io/world/tags/%E3%83%9E%E3%82%AC%E3%83%9D%E3%82%B1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenwonders4.github.io/m/tags/%E3%83%9E%E3%82%AC%E3%83%9D%E3%82%B1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>記事のテスト</title>
-      <link>https://sevenwonders4.github.io/world/blog/test/</link>
+      <link>https://sevenwonders4.github.io/m/blog/test/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/test/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/test/</guid>
       <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>漫画アプリ「マガポケ」のおもしろ漫画紹介</title>
-      <link>https://sevenwonders4.github.io/world/blog/magapokeikki/</link>
+      <link>https://sevenwonders4.github.io/m/blog/magapokeikki/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/magapokeikki/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/magapokeikki/</guid>
       <description>&lt;p&gt;スマホに漫画アプリを入れれば、無料で漫画を読み放題！&lt;/p&gt;</description>
     </item>
     

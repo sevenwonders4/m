@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>おすすめ･まとめ on 三度の飯より漫画好き</title>
-    <link>https://sevenwonders4.github.io/world/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%BE%E3%81%A8%E3%82%81/</link>
+    <link>https://sevenwonders4.github.io/m/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%BE%E3%81%A8%E3%82%81/</link>
     <description>Recent content in おすすめ･まとめ on 三度の飯より漫画好き</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sevenwonders4.github.io/world/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%BE%E3%81%A8%E3%82%81/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenwonders4.github.io/m/categories/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%BE%E3%81%A8%E3%82%81/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>記事のテスト</title>
-      <link>https://sevenwonders4.github.io/world/blog/test/</link>
+      <link>https://sevenwonders4.github.io/m/blog/test/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/test/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/test/</guid>
       <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>【2020年】おもしろかった漫画まとめ【9月おすすめ】</title>
-      <link>https://sevenwonders4.github.io/world/blog/202009matome/</link>
+      <link>https://sevenwonders4.github.io/m/blog/202009matome/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/202009matome/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/202009matome/</guid>
       <description>&lt;p&gt;最近読んだ漫画で個人的に特におもしろかった良作を10個紹介します！&lt;/p&gt;</description>
     </item>
     

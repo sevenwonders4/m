@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>漫画アプリ on 三度の飯より漫画好き</title>
-    <link>https://sevenwonders4.github.io/world/categories/%E6%BC%AB%E7%94%BB%E3%82%A2%E3%83%97%E3%83%AA/</link>
+    <link>https://sevenwonders4.github.io/m/categories/%E6%BC%AB%E7%94%BB%E3%82%A2%E3%83%97%E3%83%AA/</link>
     <description>Recent content in 漫画アプリ on 三度の飯より漫画好き</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sevenwonders4.github.io/world/categories/%E6%BC%AB%E7%94%BB%E3%82%A2%E3%83%97%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenwonders4.github.io/m/categories/%E6%BC%AB%E7%94%BB%E3%82%A2%E3%83%97%E3%83%AA/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>怪獣8号が面白い</title>
-      <link>https://sevenwonders4.github.io/world/blog/kaijyu8gou/</link>
+      <link>https://sevenwonders4.github.io/m/blog/kaijyu8gou/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/kaijyu8gou/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/kaijyu8gou/</guid>
       <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>記事のテスト</title>
-      <link>https://sevenwonders4.github.io/world/blog/test/</link>
+      <link>https://sevenwonders4.github.io/m/blog/test/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/test/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/test/</guid>
       <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>漫画アプリ「マガポケ」のおもしろ漫画紹介</title>
-      <link>https://sevenwonders4.github.io/world/blog/magapokeikki/</link>
+      <link>https://sevenwonders4.github.io/m/blog/magapokeikki/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/magapokeikki/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/magapokeikki/</guid>
       <description>&lt;p&gt;スマホに漫画アプリを入れれば、無料で漫画を読み放題！&lt;/p&gt;</description>
     </item>
     

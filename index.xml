@@ -2,102 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>三度の飯より漫画好き</title>
-    <link>https://sevenwonders4.github.io/world/</link>
+    <link>https://sevenwonders4.github.io/m/</link>
     <description>Recent content on 三度の飯より漫画好き</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sevenwonders4.github.io/world/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevenwonders4.github.io/m/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>葬送のフリーレンが面白い!!冒険が終わった後の勇者一行の物語</title>
-      <link>https://sevenwonders4.github.io/world/blog/funeralfrieren/</link>
+      <link>https://sevenwonders4.github.io/m/blog/funeralfrieren/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/funeralfrieren/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/funeralfrieren/</guid>
       <description>&lt;p&gt;今SNSで盛り上がってる葬送のフリーレンを読んでみました。異世界ファンタジーの王道でありつつ一風変わった持ち味の注目作です！&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>怪獣8号が面白い</title>
-      <link>https://sevenwonders4.github.io/world/blog/kaijyu8gou/</link>
+      <link>https://sevenwonders4.github.io/m/blog/kaijyu8gou/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/kaijyu8gou/</guid>
-      <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>こちらを見続けるドラゴンの不思議【目の錯覚】</title>
-      <link>https://sevenwonders4.github.io/world/blog/dragon-illusion/</link>
-      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sevenwonders4.github.io/world/blog/dragon-illusion/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/kaijyu8gou/</guid>
       <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>記事のテスト</title>
-      <link>https://sevenwonders4.github.io/world/blog/test/</link>
+      <link>https://sevenwonders4.github.io/m/blog/test/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/test/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/test/</guid>
       <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>プライバシーポリシー</title>
-      <link>https://sevenwonders4.github.io/world/blog/privacy-policy/</link>
+      <link>https://sevenwonders4.github.io/m/blog/privacy-policy/</link>
       <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/privacy-policy/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/privacy-policy/</guid>
       <description>&lt;p&gt;個人情報およびプライバシー情報の取り扱い方針について下記をご覧ください&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://sevenwonders4.github.io/world/about/</link>
+      <link>https://sevenwonders4.github.io/m/about/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/about/</guid>
+      <guid>https://sevenwonders4.github.io/m/about/</guid>
       <description>プライバシーポリシーについてはこちら お問い合わせはこちら Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are</description>
     </item>
     
     <item>
       <title>漫画アプリ「マガポケ」のおもしろ漫画紹介</title>
-      <link>https://sevenwonders4.github.io/world/blog/magapokeikki/</link>
+      <link>https://sevenwonders4.github.io/m/blog/magapokeikki/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/magapokeikki/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/magapokeikki/</guid>
       <description>&lt;p&gt;スマホに漫画アプリを入れれば、無料で漫画を読み放題！&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>【2020年】おもしろかった漫画まとめ【9月おすすめ】</title>
-      <link>https://sevenwonders4.github.io/world/blog/202009matome/</link>
+      <link>https://sevenwonders4.github.io/m/blog/202009matome/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/202009matome/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/202009matome/</guid>
       <description>&lt;p&gt;最近読んだ漫画で個人的に特におもしろかった良作を10個紹介します！&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>進撃の巨人がアツい</title>
-      <link>https://sevenwonders4.github.io/world/blog/singekiatui/</link>
+      <link>https://sevenwonders4.github.io/m/blog/singekiatui/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/singekiatui/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/singekiatui/</guid>
       <description>&lt;p&gt;あるみん可愛い&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>1年に漫画1000冊読む漫画好きによる紹介ブログ</title>
-      <link>https://sevenwonders4.github.io/world/blog/this-my-blog/</link>
+      <link>https://sevenwonders4.github.io/m/blog/this-my-blog/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/this-my-blog/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/this-my-blog/</guid>
       <description>&lt;p&gt;面白い漫画を探してる方いませんか？&lt;br&gt;
 次に読みたい漫画を絶対外したくないあなたへ。&lt;br&gt;
 年間1000冊以上を読破する私がオススメを紹介します！&lt;/p&gt;</description>
@@ -105,19 +96,19 @@
     
     <item>
       <title>【新刊情報】2020年10月1日～4日に発売予定の注目漫画</title>
-      <link>https://sevenwonders4.github.io/world/blog/newbook202010/</link>
+      <link>https://sevenwonders4.github.io/m/blog/newbook202010/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/blog/newbook202010/</guid>
+      <guid>https://sevenwonders4.github.io/m/blog/newbook202010/</guid>
       <description>&lt;p&gt;2020年10月1日～4日に発売する注目漫画一覧です&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://sevenwonders4.github.io/world/contact/</link>
+      <link>https://sevenwonders4.github.io/m/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/world/contact/</guid>
+      <guid>https://sevenwonders4.github.io/m/contact/</guid>
       <description></description>
     </item>
     
