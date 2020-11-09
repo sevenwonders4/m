@@ -115,6 +115,34 @@ a.article-terms-link:hover {
     font-size: 1.5em;
 }
 
+#search-form-wrap .search-form {
+    position: relative;
+}
+#search-form-wrap .search-form .search-form-input {
+    width: 100%;
+    padding: 0 30px 0 15px;
+    line-height: 40px;
+    height: 40px!important;
+    -webkit-border-radius: 21px;
+    border-radius: 21px;
+}
+#search-form-wrap .search-form .search-form-submit {
+    top: 50%;
+    right: 15px;
+    border: none;
+    cursor: pointer;
+    margin-top: -7px;
+    background: 0 0;
+    position: absolute;
+    font: 13px font-icon;
+    font-family: 'font awesome 5 free';
+}
+input, button {
+    margin: 0;
+    padding: 0;
+}
 
-
-
+#search-form-wrap .search-form .search-form-submit:before {
+    content: '\f002';
+    font-weight: 900;
+}
