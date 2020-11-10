@@ -76,7 +76,6 @@ a.article-terms-link:hover {
     padding: 0.3em;
 }
 
-
 .stats li {
     padding-top: 0.4em;
 }
@@ -137,12 +136,15 @@ a.article-terms-link:hover {
     font: 13px font-icon;
     font-family: 'font awesome 5 free';
 }
-input, button {
+#search-form-wrap .search-form .search-form-submit:before {
+    content: '\f002';
+    font-weight: 900;
+}
+.input, button {
     margin: 0;
     padding: 0;
 }
 
-#search-form-wrap .search-form .search-form-submit:before {
-    content: '\f002';
-    font-weight: 900;
+.pagination .button {
+    width: 60%;
 }
