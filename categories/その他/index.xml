@@ -6,29 +6,20 @@
     <description>Recent content in その他 on 三度の飯より漫画好き</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sevenwonders4.github.io/m/categories/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>1年に漫画1000冊読む漫画好きによる紹介ブログ</title>
-      <link>https://sevenwonders4.github.io/m/blog/this-my-blog/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <title>アバウト</title>
+      <link>https://sevenwonders4.github.io/m/about/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://sevenwonders4.github.io/m/blog/this-my-blog/</guid>
+      <guid>https://sevenwonders4.github.io/m/about/</guid>
       <description>&lt;p&gt;面白い漫画を探してる方いませんか？&lt;br&gt;
 次に読みたい漫画を絶対外したくないあなたへ。&lt;br&gt;
 年間1000冊以上を読破する私がオススメを紹介します！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>記事のテスト</title>
-      <link>https://sevenwonders4.github.io/m/blog/test/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://sevenwonders4.github.io/m/blog/test/</guid>
-      <description>&lt;p&gt;ここまでが要約なのでちゃんと表示できてますか？&lt;/p&gt;</description>
     </item>
     
   </channel>
