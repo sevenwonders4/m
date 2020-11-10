@@ -96,7 +96,7 @@ a.article-terms-link:hover {
     font-size: .8em;
 }
 .nav-title a {
-    font-size: .6em;
+    font-size: .5em;
 }
 .nav {
     font-size: .8em;
@@ -118,16 +118,16 @@ a.article-terms-link:hover {
     position: relative;
 }
 #search-form-wrap .search-form .search-form-input {
-    width: 100%;
+    width: 80%;
     padding: 0 30px 0 15px;
     line-height: 40px;
-    height: 40px!important;
+    height: 40px;
     -webkit-border-radius: 21px;
     border-radius: 21px;
 }
 #search-form-wrap .search-form .search-form-submit {
     top: 50%;
-    right: 15px;
+    right: 35px;
     border: none;
     cursor: pointer;
     margin-top: -7px;
